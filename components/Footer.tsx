@@ -32,6 +32,7 @@ export const Footer: React.FC<FooterProps> = ({ openBooking }) => {
           
           <div>
             <h4 className="font-bold text-lg mb-4 text-rose-400 font-serif">Connect With Us</h4>
+            <h4 className="font-bold text-lg mb-4 text-rose-400 font-serif">Whatsapp : 01902000000</h4>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-[#1877F2] hover:text-white transition-all transform hover:-translate-y-1">
                 <Facebook size={20} />
